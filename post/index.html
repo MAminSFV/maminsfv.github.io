@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Mechanical Engineer - Dynamics &amp; Control Systems Student">
+  <meta name="description" content="M.Sc. Student of Dynamics &amp; Control Systems">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/">
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="rgb(0, 136, 204)">
   
 
   
@@ -66,14 +66,12 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -209,11 +207,49 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156423806-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-156423806-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/post/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/post/index.xml" type="application/rss+xml" title="M. Amin Safavi">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -233,10 +269,10 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
+  <meta property="og:site_name" content="M. Amin Safavi">
   <meta property="og:url" content="/post/">
-  <meta property="og:title" content="Posts | Academic">
-  <meta property="og:description" content="Mechanical Engineer - Dynamics &amp; Control Systems Student"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="Posts | M. Amin Safavi">
+  <meta property="og:description" content="M.Sc. Student of Dynamics &amp; Control Systems"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -256,11 +292,11 @@
 
 
 
-  <title>Posts | Academic</title>
+  <title>Posts | M. Amin Safavi</title>
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -307,7 +343,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">M. Amin Safavi</a>
     </div>
     
 
@@ -320,7 +356,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">M. Amin Safavi</a>
     </div>
     
 
@@ -477,6 +513,28 @@
         
         
 
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
       
 
         
@@ -572,8 +630,6 @@
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
 
     
     
@@ -582,7 +638,7 @@
 
     
     
-    <script>const isSiteThemeDark = false;</script>
+    <script>const isSiteThemeDark = true;</script>
     
 
     
