@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/projects_swarm/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/projects_formation_controller/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/projects_rov/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/projects_tower/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/projects_ur5/</loc>
+    <lastmod>2020-03-10T17:00:27+03:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
   </url>
   
@@ -15,7 +50,11 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/projects/projects_formation_controller/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/projects_rov/</loc>
   </url>
   
   <url>
@@ -23,7 +62,23 @@
   </url>
   
   <url>
+    <loc>/categories/projects/</loc>
+  </url>
+  
+  <url>
     <loc>/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/projects_swarm/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/projects_tower/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/projects_ur5/</loc>
   </url>
   
   <url>
@@ -40,6 +95,22 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/my-project-name/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/projects_temp_controller/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/12/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/projects_temp_controller/</loc>
   </url>
   
 </urlset>

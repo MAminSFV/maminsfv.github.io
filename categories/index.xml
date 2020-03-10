@@ -12,5 +12,13 @@
       <link>/categories/</link>
     </image>
     
+    <item>
+      <title>Projects</title>
+      <link>/categories/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/categories/projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
