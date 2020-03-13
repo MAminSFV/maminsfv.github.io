@@ -53,11 +53,65 @@
     </item>
     
     <item>
+      <title>A Geometrically Driven Swarm Algorithm Enhanced with Obstacle Avoidance</title>
+      <link>/projects/projects_swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/projects_swarm/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+A joint research project about swarms coordination algorithm that can models deformable-body movement in 2D &amp; also avoiding obstacles while moving towards a target, during an internship at M&amp;MoCS research center in Italy.
+&lt;ul&gt;
+  &lt;li&gt;Lagrangian modeling of the swarm&lt;/li&gt;
+  &lt;li&gt;Developing an obstacle avoidance algorithm&lt;/li&gt;
+  &lt;li&gt;Investigating the Poisson effect on the stability of the swarm&lt;/li&gt;
+  &lt;li&gt;Autonomous trajectory planning in a field of obstacles&lt;/li&gt;
+  &lt;li&gt;Coding and simulation using Wolfram Mathematica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast Finite-Time Formation Control of Nonholonomic Mobile Robot</title>
       <link>/projects/projects_formation_controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects_formation_controller/</guid>
-      <description>This is an ongoing
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+This project was carried out during the “Nonlinear Systems and Control” course. This project is a developed model of the research carried by .... The new developments introduced to this scheme were applying graph theory and using a diffrent set of fuzzy ....These improvemnts allowed the system to hold predifened geometric formations and a faster convergence respectively.
+Some of the features of this project:
+&lt;ul&gt;
+  &lt;li&gt;A distributed multi-agent controller for a team of mobile robots &lt;/li&gt;
+  &lt;li&gt;Simulated using Matlab and Simulink&lt;/li&gt;
+  &lt;li&gt;The report is availabe here....&lt;/li&gt;
+  &lt;li&gt;Artificial potential feilds were used for obstance avoidance&lt;/li&gt;
+  &lt;li&gt;Coding and simulation using Wolfram Mathematica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
     </item>
     
@@ -66,239 +120,58 @@
       <link>/projects/projects_rov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects_rov/</guid>
-      <description></description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+A group project for desiging an underwater vehicle for industrial needs. This bio-inspired design combines the capabilities of a conventional ROV with perks of AUVs.
+Some notable features of this design project:
+&lt;ul&gt;
+  &lt;li&gt;Detailed CAD design&lt;/li&gt;
+  &lt;li&gt;Modular and robust design&lt;/li&gt;
+  &lt;li&gt;Multi-purpose design with high-end sensors&lt;/li&gt;
+  &lt;li&gt;Simulated and hydrostatic and hydrodynamic analysis using ANSYS&lt;/li&gt;
+  &lt;li&gt;Diffrent Control Modes for  various underwater opperations with increased stability and maneuverability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/projects_swarm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/projects_swarm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
+      <title>Mobile Tower Design</title>
       <link>/projects/projects_tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects_tower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/projects_ur5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/projects_ur5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temperature Controller Device</title>
-      <link>/project/my-project-name/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/my-project-name/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
-&lt;p&gt;&amp;lt;! &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;Head and Styles&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; &amp;gt;&lt;/p&gt;
-&lt;head&gt;
-&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
-&lt;style&gt;
-* {box-sizing: border-box}
-body {font-family: -apple-system,&#34;.SFNSText-Regular&#34;,&#34;San Francisco&#34;,&#34;Roboto&#34;,&#34;Segoe UI&#34;,&#34;Helvetica Neue&#34;,&#34;Lucida Grande&#34;,Arial,sans-serif}
-.mySlides {display: none}
-img {vertical-align: middle;}
-/* Video container */
-.video-container {
-  max-width: 700px;
-  position: relative;
-  margin: auto;
-}
-/* Slideshow container */
-.slideshow-container {
-  max-width: 600px;
-  position: relative;
-  margin: auto;
-}
-/* Next &amp; previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: red;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-}
-/* Position the &#34;next button&#34; to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-.active, .dot:hover {
-  background-color: #717171;
-}
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
-}
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;p&gt;&amp;lt;! &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;Head and Styles&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; &amp;gt;&lt;/p&gt;
+
+
 &lt;body&gt;
+
 &lt;p align=&#34;justify&#34;&gt;
-This project was carried out during the “Embedded Systems” hands-on course to design an electronic circuit and programming an ARM microcontroller to control a temperature chamber. The following topics have been covered during this course:
+Designing a customized Elevating Work Platform during Summer Internship at AsemanMachine Asia Co.
 &lt;ul&gt;
-  &lt;li&gt;ARM Microcontrollers Architecture&lt;/li&gt;
-  &lt;li&gt;Design Circuits for Power Supply - Linear/Switching Regulators&lt;/li&gt;
-  &lt;li&gt;Design Circuits for Digital InputOutput&lt;/li&gt;
-  &lt;li&gt;Design Circuits for Analog Input/Output - Protection Circuit&lt;/li&gt;
-  &lt;li&gt;Keypad and LCD Interfacing&lt;/li&gt;
-  &lt;li&gt;RS485 Communication Interface&lt;/li&gt;
-  &lt;li&gt;STM32 Programming - GPIO, DMA, ADC, USART, Interrupts&lt;/li&gt;
-  &lt;li&gt;LCD and Keypad Interface Programming&lt;/li&gt;
-  &lt;li&gt;HMI Communication - Modbus Protocol&lt;/li&gt;
+  &lt;li&gt;Structure design&lt;/li&gt;
+  &lt;li&gt;Detailed CAD design of structure using CATIA&lt;/li&gt;
+  &lt;li&gt;Hydraulic circuit design and simulation using Automation Studio&lt;/li&gt;
+  &lt;li&gt;Drafting technical drawings for production line&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
+
 &lt;h3&gt;Screenshots&lt;/h3&gt;
 &lt;br&gt;
-&lt;p&gt;&amp;lt;! &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;Slideshow&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; &amp;gt;&lt;/p&gt;
-&lt;div class=&#34;slideshow-container&#34;&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;1 / 8&lt;/div&gt;
-  &lt;img src=&#34;7.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;2 / 8&lt;/div&gt;
-  &lt;img src=&#34;1.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;3 / 8&lt;/div&gt;
-  &lt;img src=&#34;2.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;4 / 8&lt;/div&gt;
-  &lt;img src=&#34;3.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;5 / 8&lt;/div&gt;
-  &lt;img src=&#34;/4.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;6 / 8&lt;/div&gt;
-  &lt;img src=&#34;5.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;7 / 8&lt;/div&gt;
-  &lt;img src=&#34;6.jfif&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mySlides fade&#34;&gt;
-  &lt;div class=&#34;numbertext&#34;&gt;8 / 8&lt;/div&gt;
-  &lt;img src=&#34;8.jpg&#34; style=&#34;width:100%&#34;&gt;
-  &lt;div class=&#34;text&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;a class=&#34;prev&#34; onclick=&#34;plusSlides(-1)&#34;&gt;❮&lt;/a&gt;
-&lt;a class=&#34;next&#34; onclick=&#34;plusSlides(1)&#34;&gt;❯&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;div style=&#34;text-align:center&#34;&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(1)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(2)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(3)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(4)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(5)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(6)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(7)&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;dot&#34; onclick=&#34;currentSlide(8)&#34;&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;&amp;lt;! &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;Slideshow&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;gt;&lt;/p&gt;
-&lt;p&gt;&amp;lt;! &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;Slideshow Scripts&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- &amp;gt;&lt;/p&gt;
-&lt;script&gt;
-var slideIndex = 1;
-showSlides(slideIndex);
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName(&#34;mySlides&#34;);
-  var dots = document.getElementsByClassName(&#34;dot&#34;);
-  if (n &gt; slides.length) {slideIndex = 1}
-  if (n &lt; 1) {slideIndex = slides.length}
-  for (i = 0; i &lt; slides.length; i++) {
-      slides[i].style.display = &#34;none&#34;;
-  }
-  for (i = 0; i &lt; dots.length; i++) {
-      dots[i].className = dots[i].className.replace(&#34; active&#34;, &#34;&#34;);
-  }
-  slides[slideIndex-1].style.display = &#34;block&#34;;
-  dots[slideIndex-1].className += &#34; active&#34;;
-}
-&lt;/script&gt;
-&lt;p&gt;&amp;lt;! &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;Slideshow Scripts&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; &amp;gt;&lt;/p&gt;
+
+
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
@@ -555,6 +428,37 @@ function showSlides(n) {
 &lt;/script&gt;
 
 &lt;! --------------------Slideshow Scripts--------------------------------------------------------------------- &gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UR5 Robot Kinematic Modelling &amp; Control Simulation</title>
+      <link>/projects/projects_ur5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/projects_ur5/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+Modeling and Motion Control of a redundant manipulator, on kinematic Level, with 6 DOFs and 3-dimensional task space, tracking specific spatial trajectories.
+&lt;ul&gt;
+  &lt;li&gt;Direct kinematics and Jacobian analysis&lt;/li&gt;
+  &lt;li&gt;Simulating kinematics of the robot using Matlab and Simulink&lt;/li&gt;
+  &lt;li&gt;Using live-link connection with V-REP to visualize the Robot and its end-effector trajectory&lt;/li&gt;
+  &lt;li&gt;Inverse kinematic controller, using Jacobian pseudo-inverse with active null space&lt;/li&gt;
+  &lt;li&gt;Programmed trajectories: rectilinear, circular, and helix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
 
 
 &lt;/body&gt;

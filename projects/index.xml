@@ -13,11 +13,65 @@
     </image>
     
     <item>
+      <title>A Geometrically Driven Swarm Algorithm Enhanced with Obstacle Avoidance</title>
+      <link>/projects/projects_swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/projects_swarm/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+A joint research project about swarms coordination algorithm that can models deformable-body movement in 2D &amp; also avoiding obstacles while moving towards a target, during an internship at M&amp;MoCS research center in Italy.
+&lt;ul&gt;
+  &lt;li&gt;Lagrangian modeling of the swarm&lt;/li&gt;
+  &lt;li&gt;Developing an obstacle avoidance algorithm&lt;/li&gt;
+  &lt;li&gt;Investigating the Poisson effect on the stability of the swarm&lt;/li&gt;
+  &lt;li&gt;Autonomous trajectory planning in a field of obstacles&lt;/li&gt;
+  &lt;li&gt;Coding and simulation using Wolfram Mathematica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fast Finite-Time Formation Control of Nonholonomic Mobile Robot</title>
       <link>/projects/projects_formation_controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects_formation_controller/</guid>
-      <description>This is an ongoing
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+This project was carried out during the “Nonlinear Systems and Control” course. This project is a developed model of the research carried by .... The new developments introduced to this scheme were applying graph theory and using a diffrent set of fuzzy ....These improvemnts allowed the system to hold predifened geometric formations and a faster convergence respectively.
+Some of the features of this project:
+&lt;ul&gt;
+  &lt;li&gt;A distributed multi-agent controller for a team of mobile robots &lt;/li&gt;
+  &lt;li&gt;Simulated using Matlab and Simulink&lt;/li&gt;
+  &lt;li&gt;The report is availabe here....&lt;/li&gt;
+  &lt;li&gt;Artificial potential feilds were used for obstance avoidance&lt;/li&gt;
+  &lt;li&gt;Coding and simulation using Wolfram Mathematica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
 </description>
     </item>
     
@@ -26,31 +80,61 @@
       <link>/projects/projects_rov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects_rov/</guid>
-      <description></description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+A group project for desiging an underwater vehicle for industrial needs. This bio-inspired design combines the capabilities of a conventional ROV with perks of AUVs.
+Some notable features of this design project:
+&lt;ul&gt;
+  &lt;li&gt;Detailed CAD design&lt;/li&gt;
+  &lt;li&gt;Modular and robust design&lt;/li&gt;
+  &lt;li&gt;Multi-purpose design with high-end sensors&lt;/li&gt;
+  &lt;li&gt;Simulated and hydrostatic and hydrodynamic analysis using ANSYS&lt;/li&gt;
+  &lt;li&gt;Diffrent Control Modes for  various underwater opperations with increased stability and maneuverability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/projects_swarm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/projects_swarm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
+      <title>Mobile Tower Design</title>
       <link>/projects/projects_tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects_tower/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/projects_ur5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/projects_ur5/</guid>
-      <description></description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+Designing a customized Elevating Work Platform during Summer Internship at AsemanMachine Asia Co.
+&lt;ul&gt;
+  &lt;li&gt;Structure design&lt;/li&gt;
+  &lt;li&gt;Detailed CAD design of structure using CATIA&lt;/li&gt;
+  &lt;li&gt;Hydraulic circuit design and simulation using Automation Studio&lt;/li&gt;
+  &lt;li&gt;Drafting technical drawings for production line&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
@@ -296,6 +380,37 @@ function showSlides(n) {
 &lt;/script&gt;
 
 &lt;! --------------------Slideshow Scripts--------------------------------------------------------------------- &gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UR5 Robot Kinematic Modelling &amp; Control Simulation</title>
+      <link>/projects/projects_ur5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/projects_ur5/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+
+&lt;body&gt;
+
+&lt;p align=&#34;justify&#34;&gt;
+Modeling and Motion Control of a redundant manipulator, on kinematic Level, with 6 DOFs and 3-dimensional task space, tracking specific spatial trajectories.
+&lt;ul&gt;
+  &lt;li&gt;Direct kinematics and Jacobian analysis&lt;/li&gt;
+  &lt;li&gt;Simulating kinematics of the robot using Matlab and Simulink&lt;/li&gt;
+  &lt;li&gt;Using live-link connection with V-REP to visualize the Robot and its end-effector trajectory&lt;/li&gt;
+  &lt;li&gt;Inverse kinematic controller, using Jacobian pseudo-inverse with active null space&lt;/li&gt;
+  &lt;li&gt;Programmed trajectories: rectilinear, circular, and helix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;Screenshots&lt;/h3&gt;
+&lt;br&gt;
 
 
 &lt;/body&gt;
